@@ -154,7 +154,7 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 | ヒロ  | 中国地方    | [![twitter](img/twitter.png)](https://twitter.com/hironetoge5228) [![github](img/github.png)](https://github.com/hiro-hiro)   | もっといじっていきたいもの |
 | ゆう  | 千葉    | [![facebook](img/facebook.png)](https://facebook.com/yuu.nakamura.319/) [![twitter](img/twitter.png)](https://twitter.com/yu_naka0607) [![github](img/github.png)](https://github.com/yuu-nakamura)   | 可能性 |
 | robin29man  | 埼玉    | [![facebook](img/facebook.png)](https://facebook.com/soichiro.inoue.92/) [![twitter](img/twitter.png)](https://twitter.com/schr_i) [![github](img/github.png)](https://github.com/robin29man)   | 自分の頭の中を形にするところ |
-| A.T   | 暮れの町    |  |暮れの町の夜明け |
+| A.T   | 中国地方    |  |次の時代への階段 |
 | AyFy785  | 地球    |  [![github](img/github.png)](https://github.com/AyFy785)   | こんなのあるじゃん、<br>いいことあるじゃん！ |
 | osamnunize  | 東京    | [![facebook](img/facebook.png)](https://www.facebook.com/osamunize) [![twitter](img/twitter.png)](https://twitter.com/osamunize) [![github](img/github.png)](https://github.com/osamunize)   | GitHub完全に理解した |
 | ktetsuo  | 静岡    | [![twitter](img/twitter.png)](https://twitter.com/ktetsuo) [![github](img/github.png)](https://github.com/ktetsuo)   | 組み込みエンジニアとWebエンジニアが出会うところ |
